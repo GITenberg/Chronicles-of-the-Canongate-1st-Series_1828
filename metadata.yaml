@@ -1,0 +1,31 @@
+_repo: Chronicles-of-the-Canongate-1st-Series_1828
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: Waverley novel
+gutenberg_issued: '1999-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Scots -- Foreign countries -- Fiction'
+- GITenberg
+title: Chronicles of the Canongate, 1st Series
+url: http://www.gutenberg.org/ebooks/1828
